@@ -1,0 +1,17 @@
+secciones de la app:
+
+---------
+Mostramos quienes somos, y los datos del impacto de la app
+---------
+Tipos de arboles y como plantarlos
+---------
+Plantar
+    Integracion de mapa
+---------
+Cuidar
+    Integracion de mapa
+---------
+Perfil
+    solo para mostar arboles
+    cambiar ubicacion
+---------
